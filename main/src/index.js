@@ -83,7 +83,7 @@ class Echarts extends Component {
   };
 
 
-  setOption = (option, notMerge = false, lazyUpdate = false) => {
+  setOption = (option, notMerge = true, lazyUpdate = false) => {
     let data = {
       option: option,
       notMerge: notMerge,
