@@ -1,6 +1,6 @@
 {
-  "name": "react-native-secharts",
-  "version": "1.7.0",
+  "name": "@p2m/react-native-echarts",
+  "version": "1.0.0",
   "description": "reactnative的echarts组件",
   "main": "main/dist/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shifeng1993/react-native-secharts"
+    "url": "https://github.com/Shanghai-P2M/react-native-echarts"
   },
   "keywords": [
     "react-native-secharts",
@@ -23,7 +23,7 @@
   "author": "haise",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shifeng1993/react-native-secharts/issues"
+    "url": "https://github.com/Shanghai-P2M/react-native-echarts/issues"
   },
-  "homepage": "https://github.com/shifeng1993/react-native-secharts#readme"
+  "homepage": "https://github.com/Shanghai-P2M/react-native-echarts#readme"
 }
