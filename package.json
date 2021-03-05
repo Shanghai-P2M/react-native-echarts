@@ -1,6 +1,6 @@
 {
   "name": "@p2m/react-native-echarts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "reactnative的echarts组件",
   "main": "main/dist/index.js",
   "scripts": {
